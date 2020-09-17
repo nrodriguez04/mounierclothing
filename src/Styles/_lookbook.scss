@@ -1,0 +1,18 @@
+.lookbook {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 100%;
+    overflow: none;
+    margin-left: auto;
+    margin-right: auto;
+
+    img {
+        height: 580px;
+        width: 500px;
+        padding: 35px;
+        -webkit-box-shadow: 15px 23px 6px -48px rgba(0,0,0,0.9);
+        -moz-box-shadow: 15px 23px 6px -48px rgba(0,0,0,0.9);
+        box-shadow: 15px 23px 6px -48px rgba(0,0,0,0.9);
+    }
+}

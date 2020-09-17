@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=PT+Sans&family=Playfair+Display:wght@700&display=swap');
+
+.content {
+    height: auto;
+}
+
+.main {
+    padding: 0;
+    margin: 0;
+}
+
+.main-img {
+    z-index: 1;
+    position: relative;
+    margin-bottom: 35px;
+
+    img {
+        margin: auto;
+        width: 100%;
+       }
+}
+
+div.logo-img {
+    display: inline-block;
+    z-index: 2;
+    position: relative;
+    width: 30%;
+    padding: 0;
+    margin-right: 0 !important;
+    top: -600px;
+    left: 80px;
+
+    img {
+        top: -700px;
+        left: 80px;
+    }
+}
+
+.search {
+    float: right;
+    position:relative;
+    top:-850px;
+    right: 55px;
+    z-index:4;
+    
+    input {
+        padding: 5px;
+        width: 300px;
+        background: #f5f4fb;
+        border: none;
+        border-radius: 12px;
+    }
+
+    button {
+        margin-left: 10px;
+        width: 50px;
+        height: 30px;
+        background: #f5f4fb;
+        border: none;
+        color: white;
+        border-radius: 12px;
+    }
+}
+
+.tag-container {
+    float: right;
+    position:relative;
+    top:-700px;
+    left: 200px;
+    z-index:3;
+
+    .tagline {
+        span {
+            font-family: 'Playfair Display', serif;
+            font-size: 100px;
+            margin-bottom: 15em;
+            
+        }
+    }
+
+        button.shop {
+            background: black;
+            color: white;
+            width: 120px;
+            height: 35px;
+            border-radius: 12px;
+            padding: 5px;
+            margin: 35px;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: uppercase;
+            border: none;
+            -webkit-box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+            -moz-box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+            box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+        }
+
+        button.discover {
+            background: #f5f4fb;
+            color: black;
+            width: 120px;
+            height: 35px;
+            border-radius: 12px;
+            padding: 5px;
+            margin: 35px;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: uppercase;
+            border: none;
+            -webkit-box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+            -moz-box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+            box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+        }
+}

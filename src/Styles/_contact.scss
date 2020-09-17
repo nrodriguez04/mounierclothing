@@ -1,0 +1,51 @@
+.contact-form {
+    display: flex;
+    overflow: none;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 80%;
+    background: rgb(255, 255, 255);
+    height: 20%;
+    border: 1px solid black;
+
+    .form-one {
+        display: block;
+        width: 40%;
+        padding: 25px;
+        margin: auto;
+        float: left;
+
+        h3 {
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+
+        input {
+            background: black;
+            color: white;
+            width: 320px;
+            height: 35px;
+            border-radius: 12px;
+            padding: 5px;
+            margin: 20px;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: uppercase;
+            border: none;
+            -webkit-box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+            -moz-box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+            box-shadow: 6px 6px 23px -14px rgba(0,0,0,0.77);
+        }
+    }
+
+    .contact-info {
+        display: block;
+        width: 40%;
+        float: right;
+        margin: auto;
+        padding: 20px;
+    }
+}

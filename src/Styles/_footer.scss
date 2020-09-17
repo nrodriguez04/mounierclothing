@@ -1,0 +1,72 @@
+.footer-container {
+    box-sizing: border-box;
+    display: inline-grid;
+    background: grey;
+    color: black;
+    height: 300px;
+    grid-template-columns: auto;
+    width: 100%;
+    justify-items: stretch;
+
+
+    .title {
+        padding: 20px;
+        font-family: 'Montserrat', sans-serif;
+        color: black;
+        font-size: 20px;
+        text-transform: uppercase;
+        margin-left: 15px;
+        width: 30%;
+    }
+
+    p {
+        padding: 20px;
+        margin: 0;
+        font-size: 10px;
+    }
+
+    .links {
+        padding: 20px;
+        margin: 0;
+        margin-left: 40%;
+
+        ul {
+            list-style: none;
+
+            li {
+                color: black;
+
+            a {
+                text-decoration: none;
+                color: black;
+            }
+
+            }
+        }
+    }
+
+    .faq {
+        background: rgba($color: #525050, $alpha: 1.0);
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+            
+            li {
+                display: inline;
+                padding: 20px;
+                text-align: center;
+            }
+        }
+    }
+
+    .copyright {
+        background: rgba($color: #3a3939, $alpha: 1.0);
+        color: white;
+        text-align: center;
+        bottom: 0 !important;
+        padding: 0;
+        margin: 0;
+    }
+}
