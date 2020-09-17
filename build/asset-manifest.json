@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b33e02d8.chunk.css",
+    "main.js": "/static/js/main.086fa449.chunk.js",
+    "main.js.map": "/static/js/main.086fa449.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9371cb99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9371cb99.js.map",
+    "static/css/2.1122268d.chunk.css": "/static/css/2.1122268d.chunk.css",
+    "static/js/2.67b81734.chunk.js": "/static/js/2.67b81734.chunk.js",
+    "static/js/2.67b81734.chunk.js.map": "/static/js/2.67b81734.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.34a31e581c8781ec2732dc55fa12d7eb.js": "/precache-manifest.34a31e581c8781ec2732dc55fa12d7eb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1122268d.chunk.css.map": "/static/css/2.1122268d.chunk.css.map",
+    "static/css/main.b33e02d8.chunk.css.map": "/static/css/main.b33e02d8.chunk.css.map",
+    "static/js/2.67b81734.chunk.js.LICENSE.txt": "/static/js/2.67b81734.chunk.js.LICENSE.txt",
+    "static/media/Cover.png": "/static/media/Cover.028e6d1e.png",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/five.jpg": "/static/media/five.b5051a9a.jpg",
+    "static/media/four.jpg": "/static/media/four.db9983ff.jpg",
+    "static/media/mounierLogo.png": "/static/media/mounierLogo.293ec125.png",
+    "static/media/one.jpg": "/static/media/one.81c22ac8.jpg",
+    "static/media/seven.jpg": "/static/media/seven.fca5e25b.jpg",
+    "static/media/three.jpg": "/static/media/three.613ad604.jpg",
+    "static/media/two.jpg": "/static/media/two.e50482aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9371cb99.js",
+    "static/css/2.1122268d.chunk.css",
+    "static/js/2.67b81734.chunk.js",
+    "static/css/main.b33e02d8.chunk.css",
+    "static/js/main.086fa449.chunk.js"
+  ]
+}
